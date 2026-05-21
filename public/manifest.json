@@ -1,0 +1,17 @@
+{
+  "name": "Adil Farhan - Software Engineer",
+  "short_name": "Adil Farhan",
+  "description": "Portfolio of Adil Farhan - Software Engineer specializing in C# and .NET",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
