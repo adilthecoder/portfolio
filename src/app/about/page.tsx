@@ -10,15 +10,15 @@ export default function AboutPage() {
     {
       icon: Briefcase,
       date: 'September 2024 - Present',
-      title: 'Software Engineer and Lead',
-      company: 'Meissasoft, Lahore, Pakistan',
-      description: 'Designed scalable architectures using design patterns, migrating projects from .NET 4.6.2 to .NET Core 7. Developed a Promotion Engine for FMCG promotions. Worked on complete migrations of .NET legacy booking systems to microservices using C# 14, .NET 10. Building a complete ERP solution from scratch on the latest stack (.NET 10, Aspire, microservices, EF, PostgreSQL, n8n, Power Apps). Automated data synchronization with API resulting in 40% reduction in manual integration efforts.',
+      title: 'Senior Software Engineer & Lead',
+      company: 'Freelance, Remote',
+      description: 'Designing scalable architectures using design patterns, migrating projects from .NET 4.6.2 to .NET Core 7. Developed a Promotion Engine for FMCG promotions. Worked on complete migrations of .NET legacy booking systems to microservices using C# 14, .NET 10. Building a complete ERP solution from scratch on the latest stack (.NET 10, Aspire, microservices, EF, PostgreSQL, n8n, Power Apps). Automated data synchronization with API resulting in 40% reduction in manual integration efforts.',
       color: 'from-purple-500 to-pink-500'
     },
     {
       icon: Briefcase,
       date: 'February 2023 - August 2024',
-      title: 'Tech Lead',
+      title: 'Senior Software Engineer & Lead',
       company: 'Raheem Solutions, Lahore, Pakistan',
       description: 'Led optimization of Kulcha, a social app for finding nearby locations, enhancing data load times and location accuracy by 25%. Coordinated with cross-functional teams to ensure seamless integration and deployment on AWS.',
       color: 'from-blue-500 to-cyan-500'
@@ -26,9 +26,9 @@ export default function AboutPage() {
     {
       icon: Briefcase,
       date: 'January 2021 - January 2023',
-      title: 'Principal Software Engineer',
+      title: 'Software Engineer → Senior Software Engineer',
       company: 'Raheem Solutions, Lahore, Pakistan',
-      description: 'Delivered SalesAssist, a cloud-based sales solution, reducing client costs by 30% compared to existing SND systems. Automated report generation using Telerik, cutting down manual report generation time by 50%.',
+      description: 'Joined as Software Engineer and promoted to Senior Software Engineer the same year. Delivered SalesAssist, a cloud-based sales solution, reducing client costs by 30% compared to existing SND systems. Automated report generation using Telerik, cutting down manual report generation time by 50%.',
       color: 'from-orange-500 to-red-500'
     },
     {
@@ -84,7 +84,7 @@ export default function AboutPage() {
   const achievements = [
     { icon: CheckCircle, title: '8+ Years Experience', desc: 'Professional software engineering across multiple companies' },
     { icon: Code, title: '15+ Technologies', desc: 'Mastery of modern .NET and adjacent tech stacks' },
-    { icon: Briefcase, title: 'Software Engineer & Lead', desc: 'Currently leading at Meissasoft' },
+    { icon: Briefcase, title: 'Senior Software Engineer & Lead', desc: 'Currently freelancing' },
     { icon: MapPin, title: 'Lahore, Pakistan', desc: 'Based in Lahore, working across regions' }
   ]
 
@@ -133,10 +133,10 @@ export default function AboutPage() {
               >
                 <div className="space-y-6">
                   <h2 className="text-5xl md:text-6xl font-bold text-slate-900 dark:text-slate-100">Adil Farhan</h2>
-                  <p className="text-2xl md:text-3xl text-blue-600 font-semibold">Software Engineer &amp; Lead</p>
+                  <p className="text-2xl md:text-3xl text-blue-600 font-semibold">Senior Software Engineer &amp; Lead</p>
                   <div className="inline-flex items-center status-available">
                     <div className="w-2 h-2 bg-green-500 rounded-full mr-2"></div>
-                    Currently at Meissasoft
+                    Currently Freelancing
                   </div>
                   <div className="max-w-4xl mx-auto">
                     <p className="text-lg md:text-xl text-slate-600 dark:text-slate-400 leading-relaxed">
@@ -188,7 +188,7 @@ export default function AboutPage() {
               className="text-center mb-16"
             >
               <h2 className="heading-md text-foreground mb-4">Professional Experience</h2>
-              <p className="text-muted-foreground">8+ years across Meissasoft, Raheem Solutions, and Techlogix in Lahore, Pakistan</p>
+              <p className="text-muted-foreground">8+ years across freelance work, Raheem Solutions, and Techlogix in Lahore, Pakistan</p>
             </motion.div>
 
             <div className="max-w-4xl mx-auto">

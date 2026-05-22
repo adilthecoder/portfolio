@@ -61,7 +61,7 @@ const techStack = [
 const experienceHighlights = [
   {
     title: 'ERP & Promotion Engine',
-    company: 'Meissasoft',
+    company: 'Freelance',
     period: 'Sep 2024 – Present',
     description:
       'Building a complete ERP solution from scratch on .NET 10, C# 14, Aspire .NET, microservices, EF, and PostgreSQL. Designed a Promotion Engine for FMCG promotions and led migration of legacy .NET booking systems to modern microservices architecture.',
@@ -100,18 +100,18 @@ const experienceHighlights = [
 const timeline = [
   {
     year: '2024+',
-    title: 'Software Engineer and Lead',
-    description: 'Leading ERP and migration projects at Meissasoft using .NET 10, microservices, and modern stack.',
+    title: 'Senior Software Engineer & Lead',
+    description: 'Freelancing on ERP and migration projects using .NET 10, microservices, and a modern cloud stack.',
   },
   {
-    year: '2023',
-    title: 'Tech Lead',
+    year: '2023+',
+    title: 'Senior Software Engineer & Lead',
     description: 'Led optimization and cross-functional teams at Raheem Solutions for the Kulcha social app on AWS.',
   },
   {
     year: '2021',
-    title: 'Principal Software Engineer',
-    description: 'Delivered SalesAssist cloud sales solution and automated reporting at Raheem Solutions.',
+    title: 'Software Engineer → Senior Software Engineer',
+    description: 'Joined Raheem Solutions as Software Engineer and was promoted to Senior Software Engineer the same year.',
   },
   {
     year: '2017',
@@ -151,7 +151,7 @@ export default function HomePage() {
             >
               <div className="mb-5 inline-flex max-w-full items-center gap-3 rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-2 text-[10px] font-semibold uppercase tracking-[0.22em] text-blue-700 shadow-[0_0_30px_rgba(37,99,235,0.12)] sm:mb-6 sm:px-4 sm:text-xs sm:tracking-[0.24em] dark:border-blue-400/20 dark:text-blue-300 dark:shadow-[0_0_30px_rgba(37,99,235,0.18)]">
                 <span className="h-2 w-2 rounded-full bg-emerald-400 shadow-[0_0_18px_rgba(52,211,153,0.9)]" />
-                Software Engineer &amp; Lead
+                Senior Software Engineer &amp; Lead
               </div>
 
               <h1 className="max-w-2xl text-[2.05rem] font-black leading-[1.04] tracking-tight text-white xs:text-[2.35rem] sm:text-5xl lg:text-6xl">
@@ -220,8 +220,8 @@ export default function HomePage() {
               <div className="relative mt-auto w-full max-w-sm">
                 <div className="rounded-2xl border border-white/10 bg-slate-950/55 px-5 py-4 shadow-2xl backdrop-blur-md">
                   <p className="text-[10px] font-semibold uppercase tracking-[0.22em] text-blue-600 dark:text-blue-300">Currently</p>
-                  <p className="mt-1 text-sm font-bold text-slate-950 dark:text-white">Software Engineer &amp; Lead</p>
-                  <p className="text-xs text-slate-500 dark:text-slate-400">Meissasoft · Lahore</p>
+                  <p className="mt-1 text-sm font-bold text-slate-950 dark:text-white">Senior Software Engineer &amp; Lead</p>
+                  <p className="text-xs text-slate-500 dark:text-slate-400">Freelance · Remote</p>
                 </div>
 
                 <div className="absolute -top-20 right-0 rounded-2xl border border-white/10 bg-slate-950/55 px-4 py-3 shadow-2xl backdrop-blur-md">

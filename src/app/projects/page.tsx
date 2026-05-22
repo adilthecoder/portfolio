@@ -28,7 +28,7 @@ export default function ProjectsPage() {
             <h2 className="text-2xl font-bold text-foreground">Project showcase coming soon</h2>
             <p className="text-muted-foreground max-w-xl mx-auto">
               In the meantime, see the experience section on the About page for project highlights
-              across Meissasoft, Raheem Solutions, and Techlogix.
+              across freelance work, Raheem Solutions, and Techlogix.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/about" className="btn-primary">
